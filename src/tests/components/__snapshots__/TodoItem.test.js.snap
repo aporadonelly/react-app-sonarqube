@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoItem should display todoitem with no error 1`] = `
+<div
+  className="todo-item"
+>
+  <h2 />
+</div>
+`;

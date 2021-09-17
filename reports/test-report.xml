@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Users\81258527\Documents\repos\todo_list_with_localstorage\src\tests\components\TodoItem.test.js">
+        <testCase name="TodoItem should display todoitem with no error" duration="13"/>
+    </file>
+    <file path="C:\Users\81258527\Documents\repos\todo_list_with_localstorage\src\tests\components\TodoLists.test.js">
+        <testCase name="Todo should test TodoLists component with default state of empty array" duration="9"/>
+        <testCase name="Todo should test TodoLists component with list of todos" duration="3"/>
+    </file>
+    <file path="C:\Users\81258527\Documents\repos\todo_list_with_localstorage\src\tests\components\Header.test.js">
+        <testCase name="should test Header component" duration="11"/>
+    </file>
+    <file path="C:\Users\81258527\Documents\repos\todo_list_with_localstorage\src\tests\app.test.js">
+        <testCase name="should add two numbers" duration="1"/>
+    </file>
+    <file path="C:\Users\81258527\Documents\repos\todo_list_with_localstorage\src\tests\components\AddTodo.test.js">
+        <testCase name="TodoItem should display todoitem with no error" duration="11"/>
+        <testCase name="TodoItem Should handle submit handler" duration="6"/>
+    </file>
+</testExecutions>
